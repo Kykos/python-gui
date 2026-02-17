@@ -1,7 +1,7 @@
 from tkinter import *
-
 window = Tk()
-window.title=('Radio Buttons')
+window.title('Radio Buttons')
+
 window.geometry('350x150')
 
 icon =PhotoImage(file='images\icon.png')

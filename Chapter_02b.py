@@ -1,7 +1,7 @@
 from tkinter import *
-
 window = Tk()
-window.title=('A check Button')
+window.title('A check Button')
+
 window.geometry('500x200')
 
 icon =PhotoImage(file='images\icon.png')
